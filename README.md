@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LessCodeLessProblems
+- 👀 I’m interested in coding/freelancing/collaboration
+- 🌱 I’m currently learning Python
